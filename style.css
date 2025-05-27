@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+#body-header{
+    height: 65vh;
+    opacity: 1;
+    background-image: url(image/A.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+}
